@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following."
+
+title: "Eureka: A Hybrid AI Framework Combining Symbolic Inference and Deep Learning for Interpretable Information Retrieval Models"
+version: "0.0.3.12"
+repository-code: "https://github.com/webshubham259/eureka"
+repository-release: "https://github.com/webshubham259/eureka/releases"
+license: "MIT"
+
+date-released: 2026-10-01
+date-updated: 2026-10-01
+
+keywords:
+  - neuro-symbolic ML framework
+  - symbolic regression
+  - interpretable machine learning

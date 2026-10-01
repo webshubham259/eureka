@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+dist/
+eureka.egg-info/
+.vscode/
+*.egg-info/
