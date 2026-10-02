@@ -2,7 +2,7 @@
 <div align="center">
 <img src="./docs/media/eureka_logo.png" alt="Eureka Logo" width="200"/>
 
-<h1>Eureka: Neuro-Symbolic ML for Scientific Discovery</h1>
+<h1>Eureka : Neuro-Symbolic ML for Scientific Discovery.</h1>
 </div>
 
 ## Overview
